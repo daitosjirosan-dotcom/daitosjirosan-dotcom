@@ -14,7 +14,7 @@ Actualmente estoy desarrollando mis habilidades en análisis de datos utilizando
 
 📫 Contacto  
 Email: **daitosjirosan@gmail.com**  
-LinkedIn: **www.linkedin.com/in/daijiro-takata-santos-967731382**
+LinkedIn: **www.linkedin.com/in/daijiro-takata-santos**
 
 ---
 
