@@ -46,17 +46,6 @@ www.linkedin.com/in/daijiro-takata-santos
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daitosjirosan-dotcom&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 Lenguajes más usados
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daitosjirosan-dotcom&layout=compact&theme=tokyonight)
-
----
 
 ## 👀 Visitas al perfil
 
